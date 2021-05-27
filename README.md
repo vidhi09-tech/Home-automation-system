@@ -16,13 +16,14 @@ Components:-
 .
 .
 Passwords:-
+
 1)Door unlocked = 1234
 
 2)Door locked = 4321
 
-3) Fan on = 5642
+3)Fan on = 5642
 
-4) Different colors:-
+4)Different colors:-
 
      i. GREEN = 'A'
      
